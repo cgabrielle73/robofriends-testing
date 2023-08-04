@@ -1,12 +1,18 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders without crashing 1`] = `
+exports[` card component 1`] = `
 <div>
   <Card
-    email="Sincere@april.biz"
+    email="robo@gmsd.com"
     id={1}
     key="0"
-    name="Leanne Graham"
+    name="robo"
+  />
+  <Card
+    email="roboww@gmsd.com"
+    id={2}
+    key="1"
+    name="robow"
   />
 </div>
 `;
